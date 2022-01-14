@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @waynezhang2021
 - 👀 I’m interested in making simple but useful programs
-- 🌱 I’m currently learning C++ and python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++ and Python
+- 💞️ I’m looking to collaborate on complex C++ projects
 - 📫 How to reach me :zwh_wayne@163.com
 
 <!---
